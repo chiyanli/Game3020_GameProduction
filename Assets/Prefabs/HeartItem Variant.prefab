@@ -16,6 +16,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeartItem Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3629885287268316408, guid: 60672e8a211991d45999290248196b77, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1349341932, guid: b947083c684901a42a657ef5a01c2ff4, type: 3}
     - target: {fileID: 7322450805219692050, guid: 60672e8a211991d45999290248196b77, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
