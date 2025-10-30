@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: Name
       value: Heart
       objectReference: {fileID: 0}
+    - target: {fileID: 275799006939658595, guid: 60672e8a211991d45999290248196b77, type: 3}
+      propertyPath: pickupSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: c44f08a289ed2a344b51ebc1a3358b2e, type: 3}
     - target: {fileID: 1533878664186525217, guid: 60672e8a211991d45999290248196b77, type: 3}
       propertyPath: m_Sprite
       value: 

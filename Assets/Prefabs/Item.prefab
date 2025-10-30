@@ -121,6 +121,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Item
   ID: 1
   Name: Potion
+  pickupSfx: {fileID: 8300000, guid: 1e609665335c39345807fb02480d2633, type: 3}
+  sfxVolume: 1
 --- !u!114 &5241937058699624004
 MonoBehaviour:
   m_ObjectHideFlags: 0
